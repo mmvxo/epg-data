@@ -1,7 +1,6 @@
 {
-  "timestamp": "2026-07-23T21:14:14.876Z",
-  "merged_sources": [],
-  "failed_sources": [
+  "timestamp": "2026-07-23T22:16:13.310Z",
+  "merged_sources": [
     "cubmu.com",
     "dens.tv",
     "maxstream.tv",
@@ -10,6 +9,7 @@
     "vidio.com",
     "visionplus.id"
   ],
+  "failed_sources": [],
   "outputs": [
     "guide.xml",
     "guide.xml.gz",

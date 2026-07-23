@@ -3,37 +3,37 @@
     {
       "name": "cubmu.com",
       "status": "enabled",
-      "health": "failed"
+      "health": "success"
     },
     {
       "name": "dens.tv",
       "status": "enabled",
-      "health": "failed"
+      "health": "success"
     },
     {
       "name": "maxstream.tv",
       "status": "enabled",
-      "health": "failed"
+      "health": "success"
     },
     {
       "name": "starhubtvplus.com",
       "status": "enabled",
-      "health": "failed"
+      "health": "success"
     },
     {
       "name": "tivie.id",
       "status": "enabled",
-      "health": "failed"
+      "health": "success"
     },
     {
       "name": "vidio.com",
       "status": "enabled",
-      "health": "failed"
+      "health": "success"
     },
     {
       "name": "visionplus.id",
       "status": "enabled",
-      "health": "failed"
+      "health": "success"
     }
   ],
   "disabled": [
