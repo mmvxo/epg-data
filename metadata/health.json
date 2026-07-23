@@ -1,0 +1,68 @@
+{
+  "status": "unhealthy",
+  "timestamp": "2026-07-23T21:14:14.876Z",
+  "summary": {
+    "total": 7,
+    "success": 0,
+    "failed": 7,
+    "skipped": 1
+  },
+  "providers": {
+    "cubmu.com": {
+      "status": "failed",
+      "duration_ms": 715,
+      "channels": 0,
+      "programmes": 0,
+      "size_bytes": 0,
+      "error": "Command failed: npx --yes iptv-org-epg --sites=cubmu.com --output=/home/runner/work/epg-builder/epg-builder/dist/providers/cubmu.xml --days=7"
+    },
+    "dens.tv": {
+      "status": "failed",
+      "duration_ms": 513,
+      "channels": 0,
+      "programmes": 0,
+      "size_bytes": 0,
+      "error": "Command failed: npx --yes iptv-org-epg --sites=dens.tv --output=/home/runner/work/epg-builder/epg-builder/dist/providers/dens.xml --days=7"
+    },
+    "maxstream.tv": {
+      "status": "failed",
+      "duration_ms": 394,
+      "channels": 0,
+      "programmes": 0,
+      "size_bytes": 0,
+      "error": "Command failed: npx --yes iptv-org-epg --sites=maxstream.tv --output=/home/runner/work/epg-builder/epg-builder/dist/providers/maxstream.xml --days=7"
+    },
+    "starhubtvplus.com": {
+      "status": "failed",
+      "duration_ms": 457,
+      "channels": 0,
+      "programmes": 0,
+      "size_bytes": 0,
+      "error": "Command failed: npx --yes iptv-org-epg --sites=starhubtvplus.com --output=/home/runner/work/epg-builder/epg-builder/dist/providers/starhubtvplus.xml --days=7"
+    },
+    "tivie.id": {
+      "status": "failed",
+      "duration_ms": 409,
+      "channels": 0,
+      "programmes": 0,
+      "size_bytes": 0,
+      "error": "Command failed: npx --yes iptv-org-epg --sites=tivie.id --output=/home/runner/work/epg-builder/epg-builder/dist/providers/tivie.xml --days=7"
+    },
+    "vidio.com": {
+      "status": "failed",
+      "duration_ms": 400,
+      "channels": 0,
+      "programmes": 0,
+      "size_bytes": 0,
+      "error": "Command failed: npx --yes iptv-org-epg --sites=vidio.com --output=/home/runner/work/epg-builder/epg-builder/dist/providers/vidio.xml --days=7"
+    },
+    "visionplus.id": {
+      "status": "failed",
+      "duration_ms": 383,
+      "channels": 0,
+      "programmes": 0,
+      "size_bytes": 0,
+      "error": "Command failed: npx --yes iptv-org-epg --sites=visionplus.id --output=/home/runner/work/epg-builder/epg-builder/dist/providers/visionplus.xml --days=7"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "active": [
+    {
+      "name": "cubmu.com",
+      "status": "enabled",
+      "health": "failed"
+    },
+    {
+      "name": "dens.tv",
+      "status": "enabled",
+      "health": "failed"
+    },
+    {
+      "name": "maxstream.tv",
+      "status": "enabled",
+      "health": "failed"
+    },
+    {
+      "name": "starhubtvplus.com",
+      "status": "enabled",
+      "health": "failed"
+    },
+    {
+      "name": "tivie.id",
+      "status": "enabled",
+      "health": "failed"
+    },
+    {
+      "name": "vidio.com",
+      "status": "enabled",
+      "health": "failed"
+    },
+    {
+      "name": "visionplus.id",
+      "status": "enabled",
+      "health": "failed"
+    }
+  ],
+  "disabled": [
+    {
+      "name": "mncvision.id",
+      "reason": "Disabled in V1 due to slow response times"
+    }
+  ]
+}
