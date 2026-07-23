@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T22:56:45.814Z",
+  "timestamp": "2026-07-23T23:29:40.243Z",
   "merged_sources": [
     "cubmu.com",
     "dens.tv",
@@ -11,8 +11,10 @@
   ],
   "failed_sources": [],
   "outputs": [
+    "guide.txt",
     "guide.xml",
     "guide.xml.gz",
+    "indonesia.txt",
     "indonesia.xml",
     "indonesia.xml.gz"
   ]
