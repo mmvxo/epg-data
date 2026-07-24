@@ -1,6 +1,6 @@
 {
   "status": "healthy",
-  "timestamp": "2026-07-24T08:43:48.118Z",
+  "timestamp": "2026-07-24T14:07:16.677Z",
   "summary": {
     "total": 7,
     "success": 7,
@@ -10,15 +10,15 @@
   "providers": {
     "cubmu.com": {
       "status": "success",
-      "duration_ms": 71063,
+      "duration_ms": 81654,
       "channels": 76,
-      "programmes": 18670,
-      "size_bytes": 2680104,
+      "programmes": 18415,
+      "size_bytes": 2649712,
       "error": null
     },
     "dens.tv": {
       "status": "success",
-      "duration_ms": 26510,
+      "duration_ms": 25265,
       "channels": 43,
       "programmes": 7671,
       "size_bytes": 1202860,
@@ -26,42 +26,42 @@
     },
     "maxstream.tv": {
       "status": "success",
-      "duration_ms": 80487,
+      "duration_ms": 80238,
       "channels": 129,
-      "programmes": 3077,
-      "size_bytes": 1075307,
+      "programmes": 3311,
+      "size_bytes": 1147779,
       "error": null
     },
     "starhubtvplus.com": {
       "status": "success",
-      "duration_ms": 64714,
+      "duration_ms": 65090,
       "channels": 234,
-      "programmes": 40839,
-      "size_bytes": 27569052,
+      "programmes": 42072,
+      "size_bytes": 28454867,
       "error": null
     },
     "tivie.id": {
       "status": "success",
-      "duration_ms": 201256,
+      "duration_ms": 347065,
       "channels": 55,
-      "programmes": 3256,
-      "size_bytes": 1389795,
+      "programmes": 3163,
+      "size_bytes": 1347700,
       "error": null
     },
     "vidio.com": {
       "status": "success",
-      "duration_ms": 55598,
+      "duration_ms": 54064,
       "channels": 65,
-      "programmes": 9725,
-      "size_bytes": 4528995,
+      "programmes": 10316,
+      "size_bytes": 4811796,
       "error": null
     },
     "visionplus.id": {
       "status": "success",
-      "duration_ms": 74070,
+      "duration_ms": 75874,
       "channels": 262,
-      "programmes": 50128,
-      "size_bytes": 19784226,
+      "programmes": 49852,
+      "size_bytes": 19687220,
       "error": null
     }
   }
