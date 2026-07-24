@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-24T03:24:27.915Z",
-  "merged_sources": [
+  "timestamp": "2026-07-24T08:43:48.118Z",
+  "active_sources": [
     "cubmu.com",
     "dens.tv",
     "maxstream.tv",
@@ -11,11 +11,27 @@
   ],
   "failed_sources": [],
   "outputs": [
-    "guide.txt",
-    "guide.xml",
-    "guide.xml.gz",
-    "indonesia.txt",
-    "indonesia.xml",
-    "indonesia.xml.gz"
+    "providers/all-providers.txt",
+    "providers/cubmu.xml",
+    "providers/cubmu.xml.gz",
+    "providers/cubmu.txt",
+    "providers/dens.xml",
+    "providers/dens.xml.gz",
+    "providers/dens.txt",
+    "providers/maxstream.xml",
+    "providers/maxstream.xml.gz",
+    "providers/maxstream.txt",
+    "providers/starhubtvplus.xml",
+    "providers/starhubtvplus.xml.gz",
+    "providers/starhubtvplus.txt",
+    "providers/tivie.xml",
+    "providers/tivie.xml.gz",
+    "providers/tivie.txt",
+    "providers/vidio.xml",
+    "providers/vidio.xml.gz",
+    "providers/vidio.txt",
+    "providers/visionplus.xml",
+    "providers/visionplus.xml.gz",
+    "providers/visionplus.txt"
   ]
 }

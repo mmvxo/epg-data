@@ -1,6 +1,6 @@
 {
   "status": "healthy",
-  "timestamp": "2026-07-24T03:24:27.915Z",
+  "timestamp": "2026-07-24T08:43:48.118Z",
   "summary": {
     "total": 7,
     "success": 7,
@@ -10,39 +10,39 @@
   "providers": {
     "cubmu.com": {
       "status": "success",
-      "duration_ms": 75562,
+      "duration_ms": 71063,
       "channels": 76,
-      "programmes": 18668,
-      "size_bytes": 2679833,
+      "programmes": 18670,
+      "size_bytes": 2680104,
       "error": null
     },
     "dens.tv": {
       "status": "success",
-      "duration_ms": 23391,
+      "duration_ms": 26510,
       "channels": 43,
-      "programmes": 7631,
-      "size_bytes": 1197378,
+      "programmes": 7671,
+      "size_bytes": 1202860,
       "error": null
     },
     "maxstream.tv": {
       "status": "success",
-      "duration_ms": 90911,
+      "duration_ms": 80487,
       "channels": 129,
-      "programmes": 2947,
-      "size_bytes": 1021295,
+      "programmes": 3077,
+      "size_bytes": 1075307,
       "error": null
     },
     "starhubtvplus.com": {
       "status": "success",
-      "duration_ms": 51554,
+      "duration_ms": 64714,
       "channels": 234,
-      "programmes": 41640,
-      "size_bytes": 28119942,
+      "programmes": 40839,
+      "size_bytes": 27569052,
       "error": null
     },
     "tivie.id": {
       "status": "success",
-      "duration_ms": 170307,
+      "duration_ms": 201256,
       "channels": 55,
       "programmes": 3256,
       "size_bytes": 1389795,
@@ -50,18 +50,18 @@
     },
     "vidio.com": {
       "status": "success",
-      "duration_ms": 46802,
+      "duration_ms": 55598,
       "channels": 65,
-      "programmes": 9565,
-      "size_bytes": 4453600,
+      "programmes": 9725,
+      "size_bytes": 4528995,
       "error": null
     },
     "visionplus.id": {
       "status": "success",
-      "duration_ms": 63385,
+      "duration_ms": 74070,
       "channels": 262,
-      "programmes": 50142,
-      "size_bytes": 19780251,
+      "programmes": 50128,
+      "size_bytes": 19784226,
       "error": null
     }
   }
