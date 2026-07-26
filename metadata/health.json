@@ -1,6 +1,6 @@
 {
   "status": "healthy",
-  "timestamp": "2026-07-26T13:47:36.434Z",
+  "timestamp": "2026-07-26T19:27:28.596Z",
   "summary": {
     "total": 7,
     "success": 7,
@@ -10,58 +10,58 @@
   "providers": {
     "cubmu.com": {
       "status": "success",
-      "duration_ms": 29617,
+      "duration_ms": 26092,
       "channels": 76,
-      "programmes": 7260,
-      "size_bytes": 1039471,
+      "programmes": 7240,
+      "size_bytes": 1036433,
       "error": null
     },
     "dens.tv": {
       "status": "success",
-      "duration_ms": 23614,
+      "duration_ms": 23812,
       "channels": 43,
-      "programmes": 8217,
-      "size_bytes": 1278725,
+      "programmes": 8603,
+      "size_bytes": 1333567,
       "error": null
     },
     "maxstream.tv": {
       "status": "success",
-      "duration_ms": 88246,
+      "duration_ms": 95429,
       "channels": 129,
-      "programmes": 3443,
-      "size_bytes": 1180215,
+      "programmes": 2530,
+      "size_bytes": 869666,
       "error": null
     },
     "starhubtvplus.com": {
       "status": "success",
-      "duration_ms": 53687,
+      "duration_ms": 50839,
       "channels": 234,
-      "programmes": 42438,
-      "size_bytes": 28818969,
+      "programmes": 43624,
+      "size_bytes": 29224566,
       "error": null
     },
     "tivie.id": {
       "status": "success",
-      "duration_ms": 166393,
+      "duration_ms": 218627,
       "channels": 55,
-      "programmes": 3167,
-      "size_bytes": 1358439,
+      "programmes": 4648,
+      "size_bytes": 1982230,
       "error": null
     },
     "vidio.com": {
       "status": "success",
-      "duration_ms": 46993,
+      "duration_ms": 46178,
       "channels": 65,
-      "programmes": 10983,
-      "size_bytes": 5195917,
+      "programmes": 11115,
+      "size_bytes": 5263492,
       "error": null
     },
     "visionplus.id": {
       "status": "success",
-      "duration_ms": 57745,
+      "duration_ms": 54528,
       "channels": 262,
-      "programmes": 41838,
-      "size_bytes": 16481852,
+      "programmes": 41808,
+      "size_bytes": 16467560,
       "error": null
     }
   }

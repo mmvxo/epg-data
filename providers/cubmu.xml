@@ -7018,6 +7018,33 @@
 <programme start="20260726150300 +0000" stop="20260726160000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A Story S2</title></programme>
 <programme start="20260726160000 +0000" stop="20260726160300 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
 <programme start="20260726160300 +0000" stop="20260726170000 +0000" channel="CNA.sg"><title lang="id">The Nuclear Option</title></programme>
+<programme start="20260726170000 +0000" stop="20260726180000 +0000" channel="CNA.sg"><title lang="id">Insight</title></programme>
+<programme start="20260726180000 +0000" stop="20260726183000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260726183000 +0000" stop="20260726190000 +0000" channel="CNA.sg"><title lang="id">Talking Point</title></programme>
+<programme start="20260726190000 +0000" stop="20260726193000 +0000" channel="CNA.sg"><title lang="id">Money Mind</title></programme>
+<programme start="20260726193000 +0000" stop="20260726200000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot</title></programme>
+<programme start="20260726200000 +0000" stop="20260726203000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260726203000 +0000" stop="20260726210000 +0000" channel="CNA.sg"><title lang="id">A Street Like This</title></programme>
+<programme start="20260726210000 +0000" stop="20260726220000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A Story S2</title></programme>
+<programme start="20260726220000 +0000" stop="20260726223000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260726223000 +0000" stop="20260726230000 +0000" channel="CNA.sg"><title lang="id">Talking Point</title></programme>
+<programme start="20260726230000 +0000" stop="20260727020000 +0000" channel="CNA.sg"><title lang="id">Asia First</title></programme>
+<programme start="20260727020000 +0000" stop="20260727030000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A Story S2</title></programme>
+<programme start="20260727030000 +0000" stop="20260727050000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260727050000 +0000" stop="20260727060000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A Story S2</title></programme>
+<programme start="20260727060000 +0000" stop="20260727080000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260727080000 +0000" stop="20260727090000 +0000" channel="CNA.sg"><title lang="id">The Nuclear Option</title></programme>
+<programme start="20260727090000 +0000" stop="20260727090200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260727090200 +0000" stop="20260727100000 +0000" channel="CNA.sg"><title lang="id">Insight</title></programme>
+<programme start="20260727100000 +0000" stop="20260727110000 +0000" channel="CNA.sg"><title lang="id">East Asia Tonight</title></programme>
+<programme start="20260727110000 +0000" stop="20260727113000 +0000" channel="CNA.sg"><title lang="id">Money Mind</title></programme>
+<programme start="20260727113000 +0000" stop="20260727120000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot</title></programme>
+<programme start="20260727120000 +0000" stop="20260727130000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260727130000 +0000" stop="20260727140000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A Story S2</title></programme>
+<programme start="20260727140000 +0000" stop="20260727150000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260727150000 +0000" stop="20260727160000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A Story S2</title></programme>
+<programme start="20260727160000 +0000" stop="20260727160300 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260727160300 +0000" stop="20260727170000 +0000" channel="CNA.sg"><title lang="id">East Asia Tonight</title></programme>
 <programme start="20260727170000 +0000" stop="20260727180000 +0000" channel="CNA.sg"><title lang="id">Singapore Hour</title></programme>
 <programme start="20260727180000 +0000" stop="20260727190000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
 <programme start="20260727190000 +0000" stop="20260727200000 +0000" channel="CNA.sg"><title lang="id">Insight</title></programme>
@@ -7194,53 +7221,6 @@
 <programme start="20260727153000 +0000" stop="20260727160000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
 <programme start="20260727160000 +0000" stop="20260727163000 +0000" channel="CNBCAsia.sg"><title lang="id">Halftime Report</title></programme>
 <programme start="20260727163000 +0000" stop="20260727170000 +0000" channel="CNBCAsia.sg"><title lang="id">Halftime Report</title></programme>
-<programme start="20260727170000 +0000" stop="20260727173000 +0000" channel="CNBCAsia.sg"><title lang="id">The Exchange</title></programme>
-<programme start="20260727173000 +0000" stop="20260727180000 +0000" channel="CNBCAsia.sg"><title lang="id">The Exchange</title></programme>
-<programme start="20260727180000 +0000" stop="20260727183000 +0000" channel="CNBCAsia.sg"><title lang="id">Power Lunch</title></programme>
-<programme start="20260727183000 +0000" stop="20260727190000 +0000" channel="CNBCAsia.sg"><title lang="id">Power Lunch</title></programme>
-<programme start="20260727190000 +0000" stop="20260727193000 +0000" channel="CNBCAsia.sg"><title lang="id">Closing Bell</title></programme>
-<programme start="20260727193000 +0000" stop="20260727200000 +0000" channel="CNBCAsia.sg"><title lang="id">Closing Bell</title></programme>
-<programme start="20260727200000 +0000" stop="20260727203000 +0000" channel="CNBCAsia.sg"><title lang="id">Closing Bell: Overtime</title></programme>
-<programme start="20260727203000 +0000" stop="20260727210000 +0000" channel="CNBCAsia.sg"><title lang="id">Closing Bell: Overtime</title></programme>
-<programme start="20260727210000 +0000" stop="20260727213000 +0000" channel="CNBCAsia.sg"><title lang="id">Fast Money</title></programme>
-<programme start="20260727213000 +0000" stop="20260727220000 +0000" channel="CNBCAsia.sg"><title lang="id">Fast Money</title></programme>
-<programme start="20260727220000 +0000" stop="20260727230000 +0000" channel="CNBCAsia.sg"><title lang="id">U.S. Markets Edition</title></programme>
-<programme start="20260727230000 +0000" stop="20260727233000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Asia</title></programme>
-<programme start="20260727233000 +0000" stop="20260728000000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Asia</title></programme>
-<programme start="20260728000000 +0000" stop="20260728003000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Asia</title></programme>
-<programme start="20260728003000 +0000" stop="20260728010000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Asia</title></programme>
-<programme start="20260728010000 +0000" stop="20260728013000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Asia</title></programme>
-<programme start="20260728013000 +0000" stop="20260728020000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Asia</title></programme>
-<programme start="20260728020000 +0000" stop="20260728023000 +0000" channel="CNBCAsia.sg"><title lang="id">The China Connection</title></programme>
-<programme start="20260728023000 +0000" stop="20260728030000 +0000" channel="CNBCAsia.sg"><title lang="id">The China Connection</title></programme>
-<programme start="20260728030000 +0000" stop="20260728033000 +0000" channel="CNBCAsia.sg"><title lang="id">Inside India</title></programme>
-<programme start="20260728033000 +0000" stop="20260728040000 +0000" channel="CNBCAsia.sg"><title lang="id">Inside India</title></programme>
-<programme start="20260728040000 +0000" stop="20260728043000 +0000" channel="CNBCAsia.sg"><title lang="id">Access Middle East</title></programme>
-<programme start="20260728043000 +0000" stop="20260728050000 +0000" channel="CNBCAsia.sg"><title lang="id">Access Middle East</title></programme>
-<programme start="20260728050000 +0000" stop="20260728053000 +0000" channel="CNBCAsia.sg"><title lang="id">Europe Early Edition</title></programme>
-<programme start="20260728053000 +0000" stop="20260728060000 +0000" channel="CNBCAsia.sg"><title lang="id">Europe Early Edition</title></programme>
-<programme start="20260728060000 +0000" stop="20260728063000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Europe</title></programme>
-<programme start="20260728063000 +0000" stop="20260728070000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Europe</title></programme>
-<programme start="20260728070000 +0000" stop="20260728073000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Europe</title></programme>
-<programme start="20260728073000 +0000" stop="20260728080000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Europe</title></programme>
-<programme start="20260728080000 +0000" stop="20260728083000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Europe</title></programme>
-<programme start="20260728083000 +0000" stop="20260728090000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Europe</title></programme>
-<programme start="20260728090000 +0000" stop="20260728093000 +0000" channel="CNBCAsia.sg"><title lang="id">Morning Call</title></programme>
-<programme start="20260728093000 +0000" stop="20260728100000 +0000" channel="CNBCAsia.sg"><title lang="id">Morning Call</title></programme>
-<programme start="20260728100000 +0000" stop="20260728103000 +0000" channel="CNBCAsia.sg"><title lang="id">US Squawk Box</title></programme>
-<programme start="20260728103000 +0000" stop="20260728110000 +0000" channel="CNBCAsia.sg"><title lang="id">US Squawk Box</title></programme>
-<programme start="20260728110000 +0000" stop="20260728113000 +0000" channel="CNBCAsia.sg"><title lang="id">US Squawk Box</title></programme>
-<programme start="20260728113000 +0000" stop="20260728120000 +0000" channel="CNBCAsia.sg"><title lang="id">US Squawk Box</title></programme>
-<programme start="20260728120000 +0000" stop="20260728123000 +0000" channel="CNBCAsia.sg"><title lang="id">US Squawk Box</title></programme>
-<programme start="20260728123000 +0000" stop="20260728130000 +0000" channel="CNBCAsia.sg"><title lang="id">US Squawk Box</title></programme>
-<programme start="20260728130000 +0000" stop="20260728133000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
-<programme start="20260728133000 +0000" stop="20260728140000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
-<programme start="20260728140000 +0000" stop="20260728143000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
-<programme start="20260728143000 +0000" stop="20260728150000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
-<programme start="20260728150000 +0000" stop="20260728153000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
-<programme start="20260728153000 +0000" stop="20260728160000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
-<programme start="20260728160000 +0000" stop="20260728163000 +0000" channel="CNBCAsia.sg"><title lang="id">Halftime Report</title></programme>
-<programme start="20260728163000 +0000" stop="20260728170000 +0000" channel="CNBCAsia.sg"><title lang="id">Halftime Report</title></programme>
 <programme start="20260728170000 +0000" stop="20260728173000 +0000" channel="CNBCAsia.sg"><title lang="id">The Exchange</title></programme>
 <programme start="20260728173000 +0000" stop="20260728180000 +0000" channel="CNBCAsia.sg"><title lang="id">The Exchange</title></programme>
 <programme start="20260728180000 +0000" stop="20260728183000 +0000" channel="CNBCAsia.sg"><title lang="id">Power Lunch</title></programme>
