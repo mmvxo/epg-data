@@ -1,6 +1,6 @@
 {
   "status": "healthy",
-  "timestamp": "2026-07-27T03:44:14.891Z",
+  "timestamp": "2026-07-27T10:09:23.567Z",
   "summary": {
     "total": 7,
     "success": 7,
@@ -10,58 +10,58 @@
   "providers": {
     "cubmu.com": {
       "status": "success",
-      "duration_ms": 28525,
+      "duration_ms": 25960,
       "channels": 76,
-      "programmes": 7085,
-      "size_bytes": 1013216,
+      "programmes": 7112,
+      "size_bytes": 1017077,
       "error": null
     },
     "dens.tv": {
       "status": "success",
-      "duration_ms": 26127,
+      "duration_ms": 25950,
       "channels": 43,
-      "programmes": 7836,
-      "size_bytes": 1216531,
+      "programmes": 7960,
+      "size_bytes": 1235151,
       "error": null
     },
     "maxstream.tv": {
       "status": "success",
-      "duration_ms": 72841,
+      "duration_ms": 93776,
       "channels": 129,
-      "programmes": 2899,
-      "size_bytes": 1004102,
+      "programmes": 3397,
+      "size_bytes": 1168525,
       "error": null
     },
     "starhubtvplus.com": {
       "status": "success",
-      "duration_ms": 59720,
+      "duration_ms": 63466,
       "channels": 234,
-      "programmes": 42260,
-      "size_bytes": 28780114,
+      "programmes": 41858,
+      "size_bytes": 28412640,
       "error": null
     },
     "tivie.id": {
       "status": "success",
-      "duration_ms": 179308,
+      "duration_ms": 213154,
       "channels": 55,
       "programmes": 3512,
-      "size_bytes": 1505898,
+      "size_bytes": 1505686,
       "error": null
     },
     "vidio.com": {
       "status": "success",
-      "duration_ms": 51376,
+      "duration_ms": 53744,
       "channels": 65,
-      "programmes": 10105,
-      "size_bytes": 4804060,
+      "programmes": 10182,
+      "size_bytes": 4854201,
       "error": null
     },
     "visionplus.id": {
       "status": "success",
-      "duration_ms": 67012,
+      "duration_ms": 65399,
       "channels": 262,
-      "programmes": 34762,
-      "size_bytes": 13652111,
+      "programmes": 35732,
+      "size_bytes": 14049762,
       "error": null
     }
   }
