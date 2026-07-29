@@ -6846,7 +6846,141 @@
 <programme start="20260731180000 +0000" stop="20260731190000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
 <programme start="20260731190000 +0000" stop="20260731200000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A Story S2</title></programme>
 <programme start="20260731200000 +0000" stop="20260731210000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
-<programme start="20260731210000 +0000" stop="20260801165959 +0000" channel="CNA.sg"><title lang="id">Singapore Hour</title></programme>
+<programme start="20260731210000 +0000" stop="20260731220000 +0000" channel="CNA.sg"><title lang="id">Singapore Hour</title></programme>
+<programme start="20260731220000 +0000" stop="20260731230000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260731230000 +0000" stop="20260731233000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260731233000 +0000" stop="20260801000000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot</title></programme>
+<programme start="20260801000000 +0000" stop="20260801003000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260801003000 +0000" stop="20260801010000 +0000" channel="CNA.sg"><title lang="id">Talking Point</title></programme>
+<programme start="20260801010000 +0000" stop="20260801013000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260801013000 +0000" stop="20260801020000 +0000" channel="CNA.sg"><title lang="id">A Street Like This</title></programme>
+<programme start="20260801020000 +0000" stop="20260801020200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260801020200 +0000" stop="20260801030000 +0000" channel="CNA.sg"><title lang="id">Singapore Hour</title></programme>
+<programme start="20260801030000 +0000" stop="20260801033000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260801033000 +0000" stop="20260801040000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot</title></programme>
+<programme start="20260801040000 +0000" stop="20260801043000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260801043000 +0000" stop="20260801050000 +0000" channel="CNA.sg"><title lang="id">Money Mind</title></programme>
+<programme start="20260801050000 +0000" stop="20260801050200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260801050200 +0000" stop="20260801060000 +0000" channel="CNA.sg"><title lang="id">Insight</title></programme>
+<programme start="20260801060000 +0000" stop="20260801063000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260801063000 +0000" stop="20260801070000 +0000" channel="CNA.sg"><title lang="id">CNA Correspondent</title></programme>
+<programme start="20260801070000 +0000" stop="20260801073000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260801073000 +0000" stop="20260801080000 +0000" channel="CNA.sg"><title lang="id">A Street Like This</title></programme>
+<programme start="20260801080000 +0000" stop="20260801080200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260801080200 +0000" stop="20260801090000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A Story S2</title></programme>
+<programme start="20260801090000 +0000" stop="20260801093000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260801093000 +0000" stop="20260801100000 +0000" channel="CNA.sg"><title lang="id">Talking Point</title></programme>
+<programme start="20260801100000 +0000" stop="20260801103000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260801103000 +0000" stop="20260801110000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot</title></programme>
+<programme start="20260801110000 +0000" stop="20260801110200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260801110200 +0000" stop="20260801120000 +0000" channel="CNA.sg"><title lang="id">Japan Hour</title></programme>
+<programme start="20260801120000 +0000" stop="20260801123000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260801123000 +0000" stop="20260801130000 +0000" channel="CNA.sg"><title lang="id">Money Mind</title></programme>
+<programme start="20260801130000 +0000" stop="20260801130200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260801130200 +0000" stop="20260801140000 +0000" channel="CNA.sg"><title lang="id">Being Singaporean</title></programme>
+<programme start="20260801140000 +0000" stop="20260801143000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260801143000 +0000" stop="20260801150000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot</title></programme>
+<programme start="20260801150000 +0000" stop="20260801150300 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260801150300 +0000" stop="20260801160000 +0000" channel="CNA.sg"><title lang="id">Lost Plantations</title></programme>
+<programme start="20260801160000 +0000" stop="20260801160300 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260801160300 +0000" stop="20260801163000 +0000" channel="CNA.sg"><title lang="id">CNA Correspondent</title></programme>
+<programme start="20260801163000 +0000" stop="20260801170000 +0000" channel="CNA.sg"><title lang="id">A Street Like This</title></programme>
+<programme start="20260801170000 +0000" stop="20260801173000 +0000" channel="CNA.sg"><title lang="id">Money Mind</title></programme>
+<programme start="20260801173000 +0000" stop="20260801180000 +0000" channel="CNA.sg"><title lang="id">Talking Point</title></programme>
+<programme start="20260801180000 +0000" stop="20260801183000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260801183000 +0000" stop="20260801190000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot</title></programme>
+<programme start="20260801190000 +0000" stop="20260801200000 +0000" channel="CNA.sg"><title lang="id">Lost Plantations</title></programme>
+<programme start="20260801200000 +0000" stop="20260801203000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260801203000 +0000" stop="20260801210000 +0000" channel="CNA.sg"><title lang="id">A Street Like This</title></programme>
+<programme start="20260801210000 +0000" stop="20260801220000 +0000" channel="CNA.sg"><title lang="id">Being Singaporean</title></programme>
+<programme start="20260801220000 +0000" stop="20260801223000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260801223000 +0000" stop="20260801230000 +0000" channel="CNA.sg"><title lang="id">CNA Correspondent</title></programme>
+<programme start="20260801230000 +0000" stop="20260801233000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260801233000 +0000" stop="20260802000000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot</title></programme>
+<programme start="20260802000000 +0000" stop="20260802003000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260802003000 +0000" stop="20260802010000 +0000" channel="CNA.sg"><title lang="id">A Street Like This</title></programme>
+<programme start="20260802010000 +0000" stop="20260802013000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260802013000 +0000" stop="20260802020000 +0000" channel="CNA.sg"><title lang="id">Talking Point</title></programme>
+<programme start="20260802020000 +0000" stop="20260802020200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260802020200 +0000" stop="20260802030000 +0000" channel="CNA.sg"><title lang="id">Being Singaporean</title></programme>
+<programme start="20260802030000 +0000" stop="20260802033000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260802033000 +0000" stop="20260802040000 +0000" channel="CNA.sg"><title lang="id">Money Mind</title></programme>
+<programme start="20260802040000 +0000" stop="20260802043000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260802043000 +0000" stop="20260802050000 +0000" channel="CNA.sg"><title lang="id">CNA Correspondent</title></programme>
+<programme start="20260802050000 +0000" stop="20260802050200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260802050200 +0000" stop="20260802060000 +0000" channel="CNA.sg"><title lang="id">Japan Hour</title></programme>
+<programme start="20260802060000 +0000" stop="20260802063000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260802063000 +0000" stop="20260802070000 +0000" channel="CNA.sg"><title lang="id">A Street Like This</title></programme>
+<programme start="20260802070000 +0000" stop="20260802073000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260802073000 +0000" stop="20260802080000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot</title></programme>
+<programme start="20260802080000 +0000" stop="20260802080200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260802080200 +0000" stop="20260802090000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A Story S2</title></programme>
+<programme start="20260802090000 +0000" stop="20260802093000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260802093000 +0000" stop="20260802100000 +0000" channel="CNA.sg"><title lang="id">CNA Correspondent</title></programme>
+<programme start="20260802100000 +0000" stop="20260802103000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260802103000 +0000" stop="20260802110000 +0000" channel="CNA.sg"><title lang="id">Talking Point</title></programme>
+<programme start="20260802110000 +0000" stop="20260802110200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260802110200 +0000" stop="20260802120000 +0000" channel="CNA.sg"><title lang="id">Singapore Hour</title></programme>
+<programme start="20260802120000 +0000" stop="20260802123000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260802123000 +0000" stop="20260802130000 +0000" channel="CNA.sg"><title lang="id">A Street Like This</title></programme>
+<programme start="20260802130000 +0000" stop="20260802130200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260802130200 +0000" stop="20260802140000 +0000" channel="CNA.sg"><title lang="id">Being Singaporean</title></programme>
+<programme start="20260802140000 +0000" stop="20260802143000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260802143000 +0000" stop="20260802150000 +0000" channel="CNA.sg"><title lang="id">Sour, Salty &amp; Alive</title></programme>
+<programme start="20260802150000 +0000" stop="20260802150300 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260802150300 +0000" stop="20260802160000 +0000" channel="CNA.sg"><title lang="id">Being Singaporean</title></programme>
+<programme start="20260802160000 +0000" stop="20260802160300 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260802160300 +0000" stop="20260802170000 +0000" channel="CNA.sg"><title lang="id">Let Me Tell You A Story S2</title></programme>
+<programme start="20260802170000 +0000" stop="20260802180000 +0000" channel="CNA.sg"><title lang="id">Insight</title></programme>
+<programme start="20260802180000 +0000" stop="20260802183000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260802183000 +0000" stop="20260802190000 +0000" channel="CNA.sg"><title lang="id">Sour, Salty &amp; Alive</title></programme>
+<programme start="20260802190000 +0000" stop="20260802193000 +0000" channel="CNA.sg"><title lang="id">Money Mind</title></programme>
+<programme start="20260802193000 +0000" stop="20260802200000 +0000" channel="CNA.sg"><title lang="id">On The Red Dot</title></programme>
+<programme start="20260802200000 +0000" stop="20260802203000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260802203000 +0000" stop="20260802210000 +0000" channel="CNA.sg"><title lang="id">A Street Like This</title></programme>
+<programme start="20260802210000 +0000" stop="20260802220000 +0000" channel="CNA.sg"><title lang="id">Being Singaporean</title></programme>
+<programme start="20260802220000 +0000" stop="20260802223000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260802223000 +0000" stop="20260802230000 +0000" channel="CNA.sg"><title lang="id">Sour, Salty &amp; Alive</title></programme>
+<programme start="20260802230000 +0000" stop="20260803020000 +0000" channel="CNA.sg"><title lang="id">Asia First</title></programme>
+<programme start="20260803020000 +0000" stop="20260803030000 +0000" channel="CNA.sg"><title lang="id">Being Singaporean</title></programme>
+<programme start="20260803030000 +0000" stop="20260803050000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260803050000 +0000" stop="20260803060000 +0000" channel="CNA.sg"><title lang="id">Being Singaporean</title></programme>
+<programme start="20260803060000 +0000" stop="20260803080000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260803080000 +0000" stop="20260803090000 +0000" channel="CNA.sg"><title lang="id">Lost Plantations</title></programme>
+<programme start="20260803090000 +0000" stop="20260803090200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260803090200 +0000" stop="20260803100000 +0000" channel="CNA.sg"><title lang="id">Insight</title></programme>
+<programme start="20260803100000 +0000" stop="20260803110000 +0000" channel="CNA.sg"><title lang="id">East Asia Tonight</title></programme>
+<programme start="20260803110000 +0000" stop="20260803113000 +0000" channel="CNA.sg"><title lang="id">Money Mind</title></programme>
+<programme start="20260803113000 +0000" stop="20260803120000 +0000" channel="CNA.sg"><title lang="id">Byte The Habit</title></programme>
+<programme start="20260803120000 +0000" stop="20260803130000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260803130000 +0000" stop="20260803140000 +0000" channel="CNA.sg"><title lang="id">Singapore Hidden in 40 Objects</title></programme>
+<programme start="20260803140000 +0000" stop="20260803150000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260803150000 +0000" stop="20260803160000 +0000" channel="CNA.sg"><title lang="id">Being Singaporean</title></programme>
+<programme start="20260803160000 +0000" stop="20260803160300 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260803160300 +0000" stop="20260803170200 +0000" channel="CNA.sg"><title lang="id">East Asia Tonight</title></programme>
+<programme start="20260803170200 +0000" stop="20260803180000 +0000" channel="CNA.sg"><title lang="id">Singapore Hour</title></programme>
+<programme start="20260803180000 +0000" stop="20260803190000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260803190000 +0000" stop="20260803200000 +0000" channel="CNA.sg"><title lang="id">Insight</title></programme>
+<programme start="20260803200000 +0000" stop="20260803210000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260803210000 +0000" stop="20260803220000 +0000" channel="CNA.sg"><title lang="id">Singapore Hidden in 40 Objects</title></programme>
+<programme start="20260803220000 +0000" stop="20260803230000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260803230000 +0000" stop="20260804020000 +0000" channel="CNA.sg"><title lang="id">Asia First</title></programme>
+<programme start="20260804020000 +0000" stop="20260804030000 +0000" channel="CNA.sg"><title lang="id">Singapore Hidden in 40 Objects</title></programme>
+<programme start="20260804030000 +0000" stop="20260804050000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260804050000 +0000" stop="20260804060000 +0000" channel="CNA.sg"><title lang="id">Being Singaporean</title></programme>
+<programme start="20260804060000 +0000" stop="20260804080000 +0000" channel="CNA.sg"><title lang="id">Asia Now</title></programme>
+<programme start="20260804080000 +0000" stop="20260804083000 +0000" channel="CNA.sg"><title lang="id">Money Mind</title></programme>
+<programme start="20260804083000 +0000" stop="20260804090000 +0000" channel="CNA.sg"><title lang="id">CNA Correspondent</title></programme>
+<programme start="20260804090000 +0000" stop="20260804090200 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260804090200 +0000" stop="20260804100000 +0000" channel="CNA.sg"><title lang="id">Singapore Hour</title></programme>
+<programme start="20260804100000 +0000" stop="20260804110000 +0000" channel="CNA.sg"><title lang="id">East Asia Tonight</title></programme>
+<programme start="20260804110000 +0000" stop="20260804120000 +0000" channel="CNA.sg"><title lang="id">Being Singaporean</title></programme>
+<programme start="20260804120000 +0000" stop="20260804130000 +0000" channel="CNA.sg"><title lang="id">Asia Tonight</title></programme>
+<programme start="20260804130000 +0000" stop="20260804140000 +0000" channel="CNA.sg"><title lang="id">Singapore Hidden in 40 Objects</title></programme>
+<programme start="20260804140000 +0000" stop="20260804150000 +0000" channel="CNA.sg"><title lang="id">Singapore Tonight</title></programme>
+<programme start="20260804150000 +0000" stop="20260804160000 +0000" channel="CNA.sg"><title lang="id">Singapore Hidden in 40 Objects</title></programme>
+<programme start="20260804160000 +0000" stop="20260804160300 +0000" channel="CNA.sg"><title lang="id">Headline News</title></programme>
+<programme start="20260804160300 +0000" stop="20260804170200 +0000" channel="CNA.sg"><title lang="id">East Asia Tonight</title></programme>
 <programme start="20260728170000 +0000" stop="20260728173000 +0000" channel="CNBCAsia.sg"><title lang="id">The Exchange</title></programme>
 <programme start="20260728173000 +0000" stop="20260728180000 +0000" channel="CNBCAsia.sg"><title lang="id">The Exchange</title></programme>
 <programme start="20260728180000 +0000" stop="20260728183000 +0000" channel="CNBCAsia.sg"><title lang="id">Power Lunch</title></programme>
