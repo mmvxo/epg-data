@@ -4344,10 +4344,10 @@
 <programme start="20260801020000 +0000" stop="20260801023000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News At Noon</title></programme>
 <programme start="20260801023000 +0000" stop="20260801030000 +0000" channel="ABCAustralia.au"><title lang="id">Asia News Week</title></programme>
 <programme start="20260801030000 +0000" stop="20260801060000 +0000" channel="ABCAustralia.au"><title lang="id">AFL Premiership Season</title></programme>
-<programme start="20260801060000 +0000" stop="20260801080000 +0000" channel="ABCAustralia.au"><title lang="id">AFLW: Australia v Ireland</title></programme>
-<programme start="20260801080000 +0000" stop="20260801083000 +0000" channel="ABCAustralia.au"><title lang="id">That Pacific Sports Show</title></programme>
-<programme start="20260801083000 +0000" stop="20260801091500 +0000" channel="ABCAustralia.au"><title lang="id">Playing On A Prayer</title></programme>
-<programme start="20260801091500 +0000" stop="20260801093000 +0000" channel="ABCAustralia.au"><title lang="id">Play On</title></programme>
+<programme start="20260801060000 +0000" stop="20260801060500 +0000" channel="ABCAustralia.au"><title lang="id">Play On</title></programme>
+<programme start="20260801060500 +0000" stop="20260801081000 +0000" channel="ABCAustralia.au"><title lang="id">AFLW: Australia v Ireland</title></programme>
+<programme start="20260801081000 +0000" stop="20260801084000 +0000" channel="ABCAustralia.au"><title lang="id">That Pacific Sports Show</title></programme>
+<programme start="20260801084000 +0000" stop="20260801093000 +0000" channel="ABCAustralia.au"><title lang="id">Playing On A Prayer</title></programme>
 <programme start="20260801093000 +0000" stop="20260801121500 +0000" channel="ABCAustralia.au"><title lang="id">AFL Premiership Season</title></programme>
 <programme start="20260801121500 +0000" stop="20260801131500 +0000" channel="ABCAustralia.au"><title lang="id">A Brief History of Cricket Down Und</title></programme>
 <programme start="20260801131500 +0000" stop="20260801140500 +0000" channel="ABCAustralia.au"><title lang="id">Four Corners</title></programme>
@@ -4401,7 +4401,8 @@
 <programme start="20260803033000 +0000" stop="20260803040000 +0000" channel="ABCAustralia.au"><title lang="id">Australian Story</title></programme>
 <programme start="20260803040000 +0000" stop="20260803043000 +0000" channel="ABCAustralia.au"><title lang="id">Creative Types With Virginia Trioli</title></programme>
 <programme start="20260803043000 +0000" stop="20260803050000 +0000" channel="ABCAustralia.au"><title lang="id">Art Works</title></programme>
-<programme start="20260803050000 +0000" stop="20260803060000 +0000" channel="ABCAustralia.au"><title lang="id">Iconic Australia</title></programme>
+<programme start="20260803050000 +0000" stop="20260803050500 +0000" channel="ABCAustralia.au"><title lang="id">Play On</title></programme>
+<programme start="20260803050500 +0000" stop="20260803060000 +0000" channel="ABCAustralia.au"><title lang="id">Iconic Australia</title></programme>
 <programme start="20260803060000 +0000" stop="20260803070000 +0000" channel="ABCAustralia.au"><title lang="id">Shaun Micallef&apos;s Origin Odyssey</title></programme>
 <programme start="20260803070000 +0000" stop="20260803080000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News with Joe O&apos;Brien</title></programme>
 <programme start="20260803080000 +0000" stop="20260803083000 +0000" channel="ABCAustralia.au"><title lang="id">The Cook Up With Adam Liaw</title></programme>
@@ -4413,16 +4414,16 @@
 <programme start="20260803110000 +0000" stop="20260803115500 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
 <programme start="20260803115500 +0000" stop="20260803123000 +0000" channel="ABCAustralia.au"><title lang="id">Foreign Correspondent</title></programme>
 <programme start="20260803123000 +0000" stop="20260803132500 +0000" channel="ABCAustralia.au"><title lang="id">Shaun Micallef&apos;s Origin Odyssey</title></programme>
-<programme start="20260803132500 +0000" stop="20260803140000 +0000" channel="ABCAustralia.au"><title lang="id">Audra&apos;s Eat, Roam, Relish</title></programme>
-<programme start="20260803140000 +0000" stop="20260803141500 +0000" channel="ABCAustralia.au"><title lang="id">ABC Late News</title></programme>
-<programme start="20260803141500 +0000" stop="20260803143000 +0000" channel="ABCAustralia.au"><title lang="id">The Business</title></programme>
-<programme start="20260803143000 +0000" stop="20260803150000 +0000" channel="ABCAustralia.au"><title lang="id">7.30</title></programme>
-<programme start="20260803150000 +0000" stop="20260803160000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
-<programme start="20260803160000 +0000" stop="20260803163000 +0000" channel="ABCAustralia.au"><title lang="id">Australian Story</title></programme>
-<programme start="20260803163000 +0000" stop="20260803170000 +0000" channel="ABCAustralia.au"><title lang="id">Creative Types With Virginia Trioli</title></programme>
-<programme start="20260803170000 +0000" stop="20260803173000 +0000" channel="ABCAustralia.au"><title lang="id">Foreign Correspondent</title></programme>
-<programme start="20260803173000 +0000" stop="20260803182500 +0000" channel="ABCAustralia.au"><title lang="id">Shaun Micallef&apos;s Origin Odyssey</title></programme>
-<programme start="20260803182500 +0000" stop="20260803190000 +0000" channel="ABCAustralia.au"><title lang="id">Audra&apos;s Eat, Roam, Relish</title></programme>
+<programme start="20260803132500 +0000" stop="20260803135500 +0000" channel="ABCAustralia.au"><title lang="id">Audra&apos;s Eat, Roam, Relish</title></programme>
+<programme start="20260803135500 +0000" stop="20260803142000 +0000" channel="ABCAustralia.au"><title lang="id">ABC Late News</title></programme>
+<programme start="20260803142000 +0000" stop="20260803143500 +0000" channel="ABCAustralia.au"><title lang="id">The Business</title></programme>
+<programme start="20260803143500 +0000" stop="20260803151000 +0000" channel="ABCAustralia.au"><title lang="id">7.30</title></programme>
+<programme start="20260803151000 +0000" stop="20260803160500 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
+<programme start="20260803160500 +0000" stop="20260803163500 +0000" channel="ABCAustralia.au"><title lang="id">Australian Story</title></programme>
+<programme start="20260803163500 +0000" stop="20260803170500 +0000" channel="ABCAustralia.au"><title lang="id">Creative Types With Virginia Trioli</title></programme>
+<programme start="20260803170500 +0000" stop="20260803173500 +0000" channel="ABCAustralia.au"><title lang="id">Foreign Correspondent</title></programme>
+<programme start="20260803173500 +0000" stop="20260803183500 +0000" channel="ABCAustralia.au"><title lang="id">Shaun Micallef&apos;s Origin Odyssey</title></programme>
+<programme start="20260803183500 +0000" stop="20260803190000 +0000" channel="ABCAustralia.au"><title lang="id">Audra&apos;s Eat, Roam, Relish</title></programme>
 <programme start="20260803190000 +0000" stop="20260803200000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
 <programme start="20260803200000 +0000" stop="20260803210000 +0000" channel="ABCAustralia.au"><title lang="id">News Breakfast</title></programme>
 <programme start="20260803210000 +0000" stop="20260803230000 +0000" channel="ABCAustralia.au"><title lang="id">News Breakfast</title></programme>
@@ -4431,7 +4432,8 @@
 <programme start="20260804030000 +0000" stop="20260804033000 +0000" channel="ABCAustralia.au"><title lang="id">Australian Story</title></programme>
 <programme start="20260804033000 +0000" stop="20260804040000 +0000" channel="ABCAustralia.au"><title lang="id">Back Roads</title></programme>
 <programme start="20260804040000 +0000" stop="20260804050000 +0000" channel="ABCAustralia.au"><title lang="id">A Brief History of Cricket Down Und</title></programme>
-<programme start="20260804050000 +0000" stop="20260804060000 +0000" channel="ABCAustralia.au"><title lang="id">Australia&apos;s Wild Moments</title></programme>
+<programme start="20260804050000 +0000" stop="20260804055000 +0000" channel="ABCAustralia.au"><title lang="id">Australia&apos;s Wild Moments</title></programme>
+<programme start="20260804055000 +0000" stop="20260804060000 +0000" channel="ABCAustralia.au"><title lang="id">How Deadly</title></programme>
 <programme start="20260804060000 +0000" stop="20260804070000 +0000" channel="ABCAustralia.au"><title lang="id">Landline</title></programme>
 <programme start="20260804070000 +0000" stop="20260804080000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News with Joe O&apos;Brien</title></programme>
 <programme start="20260804080000 +0000" stop="20260804082500 +0000" channel="ABCAustralia.au"><title lang="id">The Cook Up With Adam Liaw</title></programme>
@@ -4453,7 +4455,8 @@
 <programme start="20260804163000 +0000" stop="20260804170000 +0000" channel="ABCAustralia.au"><title lang="id">Back Roads</title></programme>
 <programme start="20260804170000 +0000" stop="20260804173000 +0000" channel="ABCAustralia.au"><title lang="id">Australian Story</title></programme>
 <programme start="20260804173000 +0000" stop="20260804182500 +0000" channel="ABCAustralia.au"><title lang="id">Australia&apos;s Wild Moments</title></programme>
-<programme start="20260804182500 +0000" stop="20260804190000 +0000" channel="ABCAustralia.au"><title lang="id">Eat The Invaders</title></programme>
+<programme start="20260804182500 +0000" stop="20260804185500 +0000" channel="ABCAustralia.au"><title lang="id">Eat The Invaders</title></programme>
+<programme start="20260804185500 +0000" stop="20260804190000 +0000" channel="ABCAustralia.au"><title lang="id">Play On</title></programme>
 <programme start="20260804190000 +0000" stop="20260804200000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
 <programme start="20260804200000 +0000" stop="20260804210000 +0000" channel="ABCAustralia.au"><title lang="id">News Breakfast</title></programme>
 <programme start="20260804210000 +0000" stop="20260804230000 +0000" channel="ABCAustralia.au"><title lang="id">News Breakfast</title></programme>
@@ -4920,7 +4923,7 @@
 <programme start="20260729203000 +0000" stop="20260729213000 +0000" channel="ANTV.id"><title lang="id">Karma Baik</title></programme>
 <programme start="20260729213000 +0000" stop="20260729230000 +0000" channel="ANTV.id"><title lang="id">Hati Ke Hati Bersama Mamah Dedeh</title></programme>
 <programme start="20260729230000 +0000" stop="20260730023000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywood Pagi</title></programme>
-<programme start="20260730023000 +0000" stop="20260730060000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywwod</title></programme>
+<programme start="20260730023000 +0000" stop="20260730060000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywood</title></programme>
 <programme start="20260730060000 +0000" stop="20260730073000 +0000" channel="ANTV.id"><title lang="id">Jhanak</title></programme>
 <programme start="20260730073000 +0000" stop="20260730090000 +0000" channel="ANTV.id"><title lang="id">Sayali</title></programme>
 <programme start="20260730090000 +0000" stop="20260730103000 +0000" channel="ANTV.id"><title lang="id">Jaane Anjaane</title></programme>
@@ -4929,11 +4932,11 @@
 <programme start="20260730140000 +0000" stop="20260730160000 +0000" channel="ANTV.id"><title lang="id">Sinema Spesial Horor</title></programme>
 <programme start="20260730160000 +0000" stop="20260730180000 +0000" channel="ANTV.id"><title lang="id">Sinema Laga Klasik</title></programme>
 <programme start="20260730180000 +0000" stop="20260730190000 +0000" channel="ANTV.id"><title lang="id">Bioskop Asia</title></programme>
-<programme start="20260730190000 +0000" stop="20260730203000 +0000" channel="ANTV.id"><title lang="id">Aini Malaikat Tak Bersayap</title></programme>
+<programme start="20260730190000 +0000" stop="20260730203000 +0000" channel="ANTV.id"><title lang="id">Karma Baik</title></programme>
 <programme start="20260730203000 +0000" stop="20260730213000 +0000" channel="ANTV.id"><title lang="id">Karma Baik</title></programme>
 <programme start="20260730213000 +0000" stop="20260730230000 +0000" channel="ANTV.id"><title lang="id">Hati Ke Hati Bersama Mamah Dedeh</title></programme>
 <programme start="20260730230000 +0000" stop="20260731023000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywood Pagi</title></programme>
-<programme start="20260731023000 +0000" stop="20260731060000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywwod</title></programme>
+<programme start="20260731023000 +0000" stop="20260731060000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywood</title></programme>
 <programme start="20260731060000 +0000" stop="20260731073000 +0000" channel="ANTV.id"><title lang="id">Jhanak</title></programme>
 <programme start="20260731073000 +0000" stop="20260731090000 +0000" channel="ANTV.id"><title lang="id">Sayali</title></programme>
 <programme start="20260731090000 +0000" stop="20260731103000 +0000" channel="ANTV.id"><title lang="id">Jaane Anjaane</title></programme>
@@ -4941,12 +4944,12 @@
 <programme start="20260731113000 +0000" stop="20260731140000 +0000" channel="ANTV.id"><title lang="id">Sinema Spesial</title></programme>
 <programme start="20260731140000 +0000" stop="20260731160000 +0000" channel="ANTV.id"><title lang="id">Sinema Spesial Horor</title></programme>
 <programme start="20260731160000 +0000" stop="20260731165959 +0000" channel="ANTV.id"><title lang="id">Sinema Laga Klasik</title></programme>
-<programme start="20260731170000 +0000" stop="20260731190000 +0000" channel="ANTV.id"><title lang="id">Bioskop Asia</title></programme>
-<programme start="20260731190000 +0000" stop="20260731203000 +0000" channel="ANTV.id"><title lang="id">Aini Malaikat Tak Bersayap</title></programme>
+<programme start="20260731180000 +0000" stop="20260731190000 +0000" channel="ANTV.id"><title lang="id">Bioskop Asia</title></programme>
+<programme start="20260731190000 +0000" stop="20260731203000 +0000" channel="ANTV.id"><title lang="id">Karma Baik</title></programme>
 <programme start="20260731203000 +0000" stop="20260731213000 +0000" channel="ANTV.id"><title lang="id">Karma Baik</title></programme>
 <programme start="20260731213000 +0000" stop="20260731230000 +0000" channel="ANTV.id"><title lang="id">Hati Ke Hati Bersama Mamah Dedeh</title></programme>
 <programme start="20260731230000 +0000" stop="20260801023000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywood Pagi</title></programme>
-<programme start="20260801023000 +0000" stop="20260801060000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywwod</title></programme>
+<programme start="20260801023000 +0000" stop="20260801060000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywood</title></programme>
 <programme start="20260801060000 +0000" stop="20260801073000 +0000" channel="ANTV.id"><title lang="id">Jhanak</title></programme>
 <programme start="20260801073000 +0000" stop="20260801090000 +0000" channel="ANTV.id"><title lang="id">Sayali</title></programme>
 <programme start="20260801090000 +0000" stop="20260801103000 +0000" channel="ANTV.id"><title lang="id">Jaane Anjaane</title></programme>
@@ -4958,7 +4961,7 @@
 <programme start="20260801203000 +0000" stop="20260801213000 +0000" channel="ANTV.id"><title lang="id">Karma Baik</title></programme>
 <programme start="20260801213000 +0000" stop="20260801230000 +0000" channel="ANTV.id"><title lang="id">Hati Ke Hati Bersama Mamah Dedeh</title></programme>
 <programme start="20260801230000 +0000" stop="20260802023000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywood Pagi</title></programme>
-<programme start="20260802023000 +0000" stop="20260802060000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywwod</title></programme>
+<programme start="20260802023000 +0000" stop="20260802060000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywood</title></programme>
 <programme start="20260802060000 +0000" stop="20260802073000 +0000" channel="ANTV.id"><title lang="id">Jhanak</title></programme>
 <programme start="20260802073000 +0000" stop="20260802090000 +0000" channel="ANTV.id"><title lang="id">Sayali</title></programme>
 <programme start="20260802090000 +0000" stop="20260802103000 +0000" channel="ANTV.id"><title lang="id">Jaane Anjaane</title></programme>
@@ -5373,45 +5376,6 @@
 <programme start="20260805155000 +0000" stop="20260805160000 +0000" channel="ArirangTV.kr"><title lang="id">K-Chat: Travel In Korea</title></programme>
 <programme start="20260805160000 +0000" stop="20260805163000 +0000" channel="ArirangTV.kr"><title lang="id">Premium Collection</title></programme>
 <programme start="20260805163000 +0000" stop="20260805170000 +0000" channel="ArirangTV.kr"><title lang="id">Arirang Special</title></programme>
-<programme start="20260729170000 +0000" stop="20260729182700 +0000" channel="BeritaSatu.id"><title lang="id">One Vault</title></programme>
-<programme start="20260729182700 +0000" stop="20260729183000 +0000" channel="BeritaSatu.id"><title lang="id">Tanah Airku</title></programme>
-<programme start="20260729183000 +0000" stop="20260729190000 +0000" channel="BeritaSatu.id"><title lang="id">Saksi Mata</title></programme>
-<programme start="20260729190000 +0000" stop="20260729193000 +0000" channel="BeritaSatu.id"><title lang="id">Indonesia Update &apos;Ekspos&apos;</title></programme>
-<programme start="20260729193000 +0000" stop="20260729200000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Kriminal</title></programme>
-<programme start="20260729200000 +0000" stop="20260729203000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Sore</title></programme>
-<programme start="20260729203000 +0000" stop="20260729210000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20260729210000 +0000" stop="20260729213000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Utama</title></programme>
-<programme start="20260729213000 +0000" stop="20260729220000 +0000" channel="BeritaSatu.id"><title lang="id">Spot On</title></programme>
-<programme start="20260729220000 +0000" stop="20260729230000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Pagi</title></programme>
-<programme start="20260729230000 +0000" stop="20260729230300 +0000" channel="BeritaSatu.id"><title lang="id">Indonesia Raya</title></programme>
-<programme start="20260729230300 +0000" stop="20260730003000 +0000" channel="BeritaSatu.id"><title lang="id">Jalan Dakwah</title></programme>
-<programme start="20260730003000 +0000" stop="20260730010000 +0000" channel="BeritaSatu.id"><title lang="id">FYI</title></programme>
-<programme start="20260730010000 +0000" stop="20260730010500 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Terkini</title></programme>
-<programme start="20260730010500 +0000" stop="20260730011500 +0000" channel="BeritaSatu.id"><title lang="id">FYI</title></programme>
-<programme start="20260730011500 +0000" stop="20260730014500 +0000" channel="BeritaSatu.id"><title lang="id">Kuyliner</title></programme>
-<programme start="20260730014500 +0000" stop="20260730020000 +0000" channel="BeritaSatu.id"><title lang="id">Masak Ala Devina Hermawan</title></programme>
-<programme start="20260730020000 +0000" stop="20260730020500 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Terkini</title></programme>
-<programme start="20260730020500 +0000" stop="20260730023000 +0000" channel="BeritaSatu.id"><title lang="id">Masak Ala Devina Hermawan</title></programme>
-<programme start="20260730023000 +0000" stop="20260730030000 +0000" channel="BeritaSatu.id"><title lang="id">Investor Market Today</title></programme>
-<programme start="20260730030000 +0000" stop="20260730033000 +0000" channel="BeritaSatu.id"><title lang="id">Jendela Nusantara</title></programme>
-<programme start="20260730033000 +0000" stop="20260730040000 +0000" channel="BeritaSatu.id"><title lang="id">Indonesia Update &apos;Ototekno&apos;</title></programme>
-<programme start="20260730040000 +0000" stop="20260730050000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Siang</title></programme>
-<programme start="20260730050000 +0000" stop="20260730050500 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Terkini</title></programme>
-<programme start="20260730050500 +0000" stop="20260730053000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Siang</title></programme>
-<programme start="20260730053000 +0000" stop="20260730063000 +0000" channel="BeritaSatu.id"><title lang="id">Jalan Dakwah</title></programme>
-<programme start="20260730063000 +0000" stop="20260730073000 +0000" channel="BeritaSatu.id"><title lang="id">Pecah Telur</title></programme>
-<programme start="20260730073000 +0000" stop="20260730080000 +0000" channel="BeritaSatu.id"><title lang="id">Jendela Dunia</title></programme>
-<programme start="20260730080000 +0000" stop="20260730083000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Kriminal</title></programme>
-<programme start="20260730083000 +0000" stop="20260730090000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Sore</title></programme>
-<programme start="20260730090000 +0000" stop="20260730090500 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Terkini</title></programme>
-<programme start="20260730090500 +0000" stop="20260730100000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Sore</title></programme>
-<programme start="20260730100000 +0000" stop="20260730103000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Merah Putih</title></programme>
-<programme start="20260730103000 +0000" stop="20260730120000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Utama</title></programme>
-<programme start="20260730120000 +0000" stop="20260730130000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20260730130000 +0000" stop="20260730140000 +0000" channel="BeritaSatu.id"><title lang="id">Jendela Dunia</title></programme>
-<programme start="20260730140000 +0000" stop="20260730150000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Utama</title></programme>
-<programme start="20260730150000 +0000" stop="20260730160000 +0000" channel="BeritaSatu.id"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20260730160000 +0000" stop="20260730170000 +0000" channel="BeritaSatu.id"><title lang="id">Mitos Tengah Malam</title></programme>
 <programme start="20260730170000 +0000" stop="20260730182700 +0000" channel="BeritaSatu.id"><title lang="id">One Vault</title></programme>
 <programme start="20260730182700 +0000" stop="20260730183000 +0000" channel="BeritaSatu.id"><title lang="id">Tanah Airku</title></programme>
 <programme start="20260730183000 +0000" stop="20260730190000 +0000" channel="BeritaSatu.id"><title lang="id">Saksi Mata</title></programme>
@@ -7407,4 +7371,48 @@
 <programme start="20260802143000 +0000" stop="20260802150000 +0000" channel="CNBCAsia.sg"><title lang="id">CNBC On Assignment</title></programme>
 <programme start="20260802150000 +0000" stop="20260802160000 +0000" channel="CNBCAsia.sg"><title lang="id">American Greed: Biggest Cons</title></programme>
 <programme start="20260802160000 +0000" stop="20260802170000 +0000" channel="CNBCAsia.sg"><title lang="id">Late Night with Seth Meyers</title></programme>
+<programme start="20260802170000 +0000" stop="20260802180000 +0000" channel="CNBCAsia.sg"><title lang="id">Late Night with Seth Meyers</title></programme>
+<programme start="20260802180000 +0000" stop="20260802183000 +0000" channel="CNBCAsia.sg"><title lang="id">CNBC Explains</title></programme>
+<programme start="20260802183000 +0000" stop="20260802190000 +0000" channel="CNBCAsia.sg"><title lang="id">Managing Asia</title></programme>
+<programme start="20260802190000 +0000" stop="20260802200000 +0000" channel="CNBCAsia.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon</title></programme>
+<programme start="20260802200000 +0000" stop="20260802210000 +0000" channel="CNBCAsia.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon</title></programme>
+<programme start="20260802210000 +0000" stop="20260802220000 +0000" channel="CNBCAsia.sg"><title lang="id">American Greed</title></programme>
+<programme start="20260802220000 +0000" stop="20260802223000 +0000" channel="CNBCAsia.sg"><title lang="id">The Tech Download</title></programme>
+<programme start="20260802223000 +0000" stop="20260802230000 +0000" channel="CNBCAsia.sg"><title lang="id">CNBC On Assignment</title></programme>
+<programme start="20260802230000 +0000" stop="20260802233000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Asia</title></programme>
+<programme start="20260802233000 +0000" stop="20260803000000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Asia</title></programme>
+<programme start="20260803000000 +0000" stop="20260803003000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Asia</title></programme>
+<programme start="20260803003000 +0000" stop="20260803010000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Asia</title></programme>
+<programme start="20260803010000 +0000" stop="20260803013000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Asia</title></programme>
+<programme start="20260803013000 +0000" stop="20260803020000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Asia</title></programme>
+<programme start="20260803020000 +0000" stop="20260803023000 +0000" channel="CNBCAsia.sg"><title lang="id">The China Connection</title></programme>
+<programme start="20260803023000 +0000" stop="20260803030000 +0000" channel="CNBCAsia.sg"><title lang="id">The China Connection</title></programme>
+<programme start="20260803030000 +0000" stop="20260803033000 +0000" channel="CNBCAsia.sg"><title lang="id">Inside India</title></programme>
+<programme start="20260803033000 +0000" stop="20260803040000 +0000" channel="CNBCAsia.sg"><title lang="id">Inside India</title></programme>
+<programme start="20260803040000 +0000" stop="20260803043000 +0000" channel="CNBCAsia.sg"><title lang="id">Access Middle East</title></programme>
+<programme start="20260803043000 +0000" stop="20260803050000 +0000" channel="CNBCAsia.sg"><title lang="id">Access Middle East</title></programme>
+<programme start="20260803050000 +0000" stop="20260803053000 +0000" channel="CNBCAsia.sg"><title lang="id">Europe Early Edition</title></programme>
+<programme start="20260803053000 +0000" stop="20260803060000 +0000" channel="CNBCAsia.sg"><title lang="id">Europe Early Edition</title></programme>
+<programme start="20260803060000 +0000" stop="20260803063000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Europe</title></programme>
+<programme start="20260803063000 +0000" stop="20260803070000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Europe</title></programme>
+<programme start="20260803070000 +0000" stop="20260803073000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Europe</title></programme>
+<programme start="20260803073000 +0000" stop="20260803080000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Europe</title></programme>
+<programme start="20260803080000 +0000" stop="20260803083000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Europe</title></programme>
+<programme start="20260803083000 +0000" stop="20260803090000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk Box Europe</title></programme>
+<programme start="20260803090000 +0000" stop="20260803093000 +0000" channel="CNBCAsia.sg"><title lang="id">Morning Call</title></programme>
+<programme start="20260803093000 +0000" stop="20260803100000 +0000" channel="CNBCAsia.sg"><title lang="id">Morning Call</title></programme>
+<programme start="20260803100000 +0000" stop="20260803103000 +0000" channel="CNBCAsia.sg"><title lang="id">US Squawk Box</title></programme>
+<programme start="20260803103000 +0000" stop="20260803110000 +0000" channel="CNBCAsia.sg"><title lang="id">US Squawk Box</title></programme>
+<programme start="20260803110000 +0000" stop="20260803113000 +0000" channel="CNBCAsia.sg"><title lang="id">US Squawk Box</title></programme>
+<programme start="20260803113000 +0000" stop="20260803120000 +0000" channel="CNBCAsia.sg"><title lang="id">US Squawk Box</title></programme>
+<programme start="20260803120000 +0000" stop="20260803123000 +0000" channel="CNBCAsia.sg"><title lang="id">US Squawk Box</title></programme>
+<programme start="20260803123000 +0000" stop="20260803130000 +0000" channel="CNBCAsia.sg"><title lang="id">US Squawk Box</title></programme>
+<programme start="20260803130000 +0000" stop="20260803133000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
+<programme start="20260803133000 +0000" stop="20260803140000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
+<programme start="20260803140000 +0000" stop="20260803143000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
+<programme start="20260803143000 +0000" stop="20260803150000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
+<programme start="20260803150000 +0000" stop="20260803153000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
+<programme start="20260803153000 +0000" stop="20260803160000 +0000" channel="CNBCAsia.sg"><title lang="id">Squawk On The Street</title></programme>
+<programme start="20260803160000 +0000" stop="20260803163000 +0000" channel="CNBCAsia.sg"><title lang="id">Halftime Report</title></programme>
+<programme start="20260803163000 +0000" stop="20260803170000 +0000" channel="CNBCAsia.sg"><title lang="id">Halftime Report</title></programme>
 </tv>
