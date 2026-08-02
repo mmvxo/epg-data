@@ -1,6 +1,6 @@
 {
   "status": "healthy",
-  "timestamp": "2026-08-01T19:24:47.341Z",
+  "timestamp": "2026-08-02T03:32:45.670Z",
   "summary": {
     "total": 7,
     "success": 7,
@@ -10,7 +10,7 @@
   "providers": {
     "cubmu.com": {
       "status": "success",
-      "duration_ms": 11601,
+      "duration_ms": 11139,
       "channels": 76,
       "programmes": 0,
       "size_bytes": 9806,
@@ -18,50 +18,50 @@
     },
     "dens.tv": {
       "status": "success",
-      "duration_ms": 28206,
+      "duration_ms": 30333,
       "channels": 43,
-      "programmes": 8532,
-      "size_bytes": 1316856,
+      "programmes": 8801,
+      "size_bytes": 1355735,
       "error": null
     },
     "maxstream.tv": {
       "status": "success",
-      "duration_ms": 83124,
+      "duration_ms": 92008,
       "channels": 129,
-      "programmes": 2429,
-      "size_bytes": 845233,
+      "programmes": 2864,
+      "size_bytes": 1000091,
       "error": null
     },
     "starhubtvplus.com": {
       "status": "success",
-      "duration_ms": 62676,
+      "duration_ms": 64275,
       "channels": 234,
-      "programmes": 43585,
-      "size_bytes": 29508595,
+      "programmes": 43404,
+      "size_bytes": 29376173,
       "error": null
     },
     "tivie.id": {
       "status": "success",
-      "duration_ms": 192178,
+      "duration_ms": 133753,
       "channels": 55,
-      "programmes": 3885,
-      "size_bytes": 1743948,
+      "programmes": 2917,
+      "size_bytes": 1287704,
       "error": null
     },
     "vidio.com": {
       "status": "success",
-      "duration_ms": 52801,
+      "duration_ms": 58327,
       "channels": 65,
-      "programmes": 10205,
-      "size_bytes": 4910767,
+      "programmes": 9933,
+      "size_bytes": 4772226,
       "error": null
     },
     "visionplus.id": {
       "status": "success",
-      "duration_ms": 67070,
+      "duration_ms": 74642,
       "channels": 262,
-      "programmes": 49874,
-      "size_bytes": 19876584,
+      "programmes": 50142,
+      "size_bytes": 19920237,
       "error": null
     }
   }
