@@ -5,8 +5,8 @@
 <channel id="beINSports2.qa"><display-name>beIN Sports 2</display-name><icon src="https://i.imgur.com/vUJZSvs.png"/></channel>
 <channel id="beINSports3.qa"><display-name>beIN Sports 3</display-name><icon src="https://i.imgur.com/UYSMao3.png"/></channel>
 <channel id="BTV.id"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/></channel>
-<channel id="CelestialClassicMovies.id"><display-name>CCM</display-name><icon src="https://i.imgur.com/X7OZ3w5.png"/></channel>
-<channel id="CelestialMoviesIndonesia.id"><display-name>Celestial Movies</display-name><icon src="https://i.imgur.com/KYP1xXZ.png"/></channel>
+<channel id="CelestialClassicMovies.id"><display-name>CCM</display-name></channel>
+<channel id="CelestialMoviesIndonesia.id"><display-name>Celestial Movies</display-name></channel>
 <channel id="CinemaWorld.my"><display-name>CinemaWorld</display-name><icon src="https://i.imgur.com/D2qNVZ7.png"/></channel>
 <channel id="CinemaxAsia.sg"><display-name>Cinemax</display-name><icon src="https://i.imgur.com/c8crJfA.png"/></channel>
 <channel id="CNNIndonesia.id"><display-name>CNN</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/></channel>
