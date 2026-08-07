@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-06T14:31:00.925Z",
+  "timestamp": "2026-08-07T00:14:31.902Z",
   "totals": {
     "channels": 864,
-    "programmes": 116895
+    "programmes": 115153
   },
   "by_provider": {
     "cubmu.com": {
@@ -11,27 +11,27 @@
     },
     "dens.tv": {
       "channels": 43,
-      "programmes": 7368
+      "programmes": 6783
     },
     "maxstream.tv": {
       "channels": 129,
-      "programmes": 3225
+      "programmes": 2804
     },
     "starhubtvplus.com": {
       "channels": 234,
-      "programmes": 43220
+      "programmes": 43254
     },
     "tivie.id": {
       "channels": 55,
-      "programmes": 2933
+      "programmes": 2401
     },
     "vidio.com": {
       "channels": 65,
-      "programmes": 9821
+      "programmes": 9225
     },
     "visionplus.id": {
       "channels": 262,
-      "programmes": 50328
+      "programmes": 50686
     }
   }
 }
