@@ -1,6 +1,6 @@
 {
   "status": "healthy",
-  "timestamp": "2026-08-11T07:25:17.157Z",
+  "timestamp": "2026-08-11T13:24:41.852Z",
   "summary": {
     "total": 7,
     "success": 7,
@@ -10,7 +10,7 @@
   "providers": {
     "cubmu.com": {
       "status": "success",
-      "duration_ms": 16077,
+      "duration_ms": 11710,
       "channels": 76,
       "programmes": 0,
       "size_bytes": 9761,
@@ -18,50 +18,50 @@
     },
     "dens.tv": {
       "status": "success",
-      "duration_ms": 24882,
+      "duration_ms": 26201,
       "channels": 43,
-      "programmes": 8734,
-      "size_bytes": 1356047,
+      "programmes": 8918,
+      "size_bytes": 1385107,
       "error": null
     },
     "maxstream.tv": {
       "status": "success",
-      "duration_ms": 71871,
+      "duration_ms": 80853,
       "channels": 129,
-      "programmes": 2830,
-      "size_bytes": 982586,
+      "programmes": 3229,
+      "size_bytes": 1110431,
       "error": null
     },
     "starhubtvplus.com": {
       "status": "success",
-      "duration_ms": 66059,
+      "duration_ms": 76188,
       "channels": 234,
-      "programmes": 42710,
-      "size_bytes": 28871248,
+      "programmes": 43465,
+      "size_bytes": 29426897,
       "error": null
     },
     "tivie.id": {
       "status": "success",
-      "duration_ms": 240781,
+      "duration_ms": 177953,
       "channels": 55,
       "programmes": 3532,
-      "size_bytes": 1504253,
+      "size_bytes": 1504181,
       "error": null
     },
     "vidio.com": {
       "status": "success",
-      "duration_ms": 58148,
+      "duration_ms": 57148,
       "channels": 65,
-      "programmes": 11171,
-      "size_bytes": 5281189,
+      "programmes": 11168,
+      "size_bytes": 5280934,
       "error": null
     },
     "visionplus.id": {
       "status": "success",
-      "duration_ms": 73074,
+      "duration_ms": 66066,
       "channels": 262,
-      "programmes": 50268,
-      "size_bytes": 20121846,
+      "programmes": 50194,
+      "size_bytes": 20169644,
       "error": null
     }
   }
