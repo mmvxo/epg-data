@@ -1,8 +1,8 @@
 {
   "version": "2.1.0",
-  "build_time": "2026-08-19T01:39:34.000Z",
-  "duration_ms": 383103,
-  "duration_formatted": "383.10s",
+  "build_time": "2026-08-19T13:03:29.092Z",
+  "duration_ms": 480394,
+  "duration_formatted": "480.39s",
   "node_version": "v22.23.2",
   "days_grabbed": 7,
   "max_connections": 10,
