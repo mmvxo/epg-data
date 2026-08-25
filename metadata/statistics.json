@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-25T07:03:39.175Z",
+  "timestamp": "2026-08-25T13:03:43.761Z",
   "totals": {
     "channels": 864,
-    "programmes": 72850
+    "programmes": 73298
   },
   "by_provider": {
     "cubmu.com": {
@@ -15,7 +15,7 @@
     },
     "maxstream.tv": {
       "channels": 129,
-      "programmes": 2787
+      "programmes": 3247
     },
     "starhubtvplus.com": {
       "channels": 234,
@@ -31,7 +31,7 @@
     },
     "visionplus.id": {
       "channels": 262,
-      "programmes": 48596
+      "programmes": 48584
     }
   }
 }
