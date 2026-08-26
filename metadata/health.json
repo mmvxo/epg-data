@@ -1,6 +1,6 @@
 {
   "status": "healthy",
-  "timestamp": "2026-08-26T15:26:12.873Z",
+  "timestamp": "2026-08-26T22:18:01.498Z",
   "summary": {
     "total": 7,
     "success": 7,
@@ -10,7 +10,7 @@
   "providers": {
     "cubmu.com": {
       "status": "success",
-      "duration_ms": 9478,
+      "duration_ms": 10383,
       "channels": 76,
       "programmes": 0,
       "size_bytes": 9761,
@@ -18,23 +18,23 @@
     },
     "dens.tv": {
       "status": "success",
-      "duration_ms": 25012,
+      "duration_ms": 25354,
       "channels": 43,
-      "programmes": 7905,
-      "size_bytes": 1236519,
+      "programmes": 8099,
+      "size_bytes": 1267648,
       "error": null
     },
     "maxstream.tv": {
       "status": "success",
-      "duration_ms": 80182,
+      "duration_ms": 87609,
       "channels": 129,
-      "programmes": 3219,
-      "size_bytes": 1104905,
+      "programmes": 2303,
+      "size_bytes": 799040,
       "error": null
     },
     "starhubtvplus.com": {
       "status": "success",
-      "duration_ms": 8287624,
+      "duration_ms": 8279590,
       "channels": 234,
       "programmes": 0,
       "size_bytes": 33509,
@@ -42,26 +42,26 @@
     },
     "tivie.id": {
       "status": "success",
-      "duration_ms": 137294,
+      "duration_ms": 127231,
       "channels": 55,
-      "programmes": 1655,
-      "size_bytes": 590729,
+      "programmes": 1665,
+      "size_bytes": 594792,
       "error": null
     },
     "vidio.com": {
       "status": "success",
-      "duration_ms": 55575,
+      "duration_ms": 45194,
       "channels": 65,
-      "programmes": 9892,
-      "size_bytes": 4662571,
+      "programmes": 9917,
+      "size_bytes": 4673345,
       "error": null
     },
     "visionplus.id": {
       "status": "success",
-      "duration_ms": 70613,
+      "duration_ms": 59564,
       "channels": 262,
-      "programmes": 42150,
-      "size_bytes": 17038399,
+      "programmes": 42130,
+      "size_bytes": 17029318,
       "error": null
     }
   }
