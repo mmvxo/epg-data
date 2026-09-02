@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20260901">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260902">
 <channel id="SonyMaxSingapore.sg"><display-name>SONY MAX</display-name><icon src="https://i.imgur.com/LBICKI5.png"/></channel>
 <channel id="ONE.sg"><display-name>ONE HD</display-name><icon src="https://i.imgur.com/ea0iGfA.png"/></channel>
 <channel id="TV5MondeAsia.fr"><display-name>TV5MONDE HD</display-name><icon src="https://i.imgur.com/FRsRXRR.png"/></channel>
@@ -13,7 +13,7 @@
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium HD</display-name><icon src="https://i.imgur.com/4ESi2La.png"/></channel>
 <channel id="3f4bb488-1eae-4b02-8d13-04931b021e09"><display-name>TestChannel 996</display-name></channel>
 <channel id="HubPremier6.sg"><display-name>Hub Premier 6</display-name><icon src="https://i.imgur.com/9F7wNgI.png"/></channel>
-<channel id="ArirangTV.kr"><display-name>Arirang TV HD</display-name><icon src="https://i.imgur.com/Asu5pE9.png"/></channel>
+<channel id="ArirangTV.kr"><display-name>Arirang TV HD</display-name><icon src="https://i.imgur.com/kk2MdNC.png"/></channel>
 <channel id="Vannathirai.sg"><display-name>Vannathirai</display-name><icon src="https://i.imgur.com/mpGrgrU.png"/></channel>
 <channel id="HubPremier8.sg"><display-name>Hub Premier 8</display-name><icon src="https://i.imgur.com/stYijJ1.png"/></channel>
 <channel id="HubSports3.sg"><display-name>Hub Sports 3 HD</display-name><icon src="https://i.imgur.com/7H0Tbxy.png"/></channel>
@@ -23,7 +23,7 @@
 <channel id="HubPremier2.sg"><display-name>Hub Premier 2 (HD)</display-name><icon src="https://i.imgur.com/mrZwamR.png"/></channel>
 <channel id="beINSports2.qa"><display-name>beIN SPORTS 2 HD</display-name><icon src="https://i.imgur.com/vUJZSvs.png"/></channel>
 <channel id="KalaignarTV.in"><display-name>Kalaignar TV</display-name><icon src="https://dtil.tmsimg.com/assets/s143249_ld_h15_aa.png?lock=720x540"/></channel>
-<channel id="NHKWorldJapan.jp"><display-name>NHK WORLD - JAPAN HD</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png"/></channel>
+<channel id="NHKWorldJapan.jp"><display-name>NHK WORLD - JAPAN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png"/></channel>
 <channel id="PreviewChannel.sg"><display-name>Preview Channel</display-name><icon src="https://i.imgur.com/Dt2UnQ2.png"/></channel>
 <channel id="TVBXingHe.hk"><display-name>TVB Xing He HD</display-name><icon src="https://i.imgur.com/uf0bYFm.png"/></channel>
 <channel id="CrimePlusInvestigationAsia.sg"><display-name>Crime + Investigation HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"/></channel>
@@ -38,7 +38,7 @@
 <channel id="BBCLifestyle.uk"><display-name>BBC Lifestyle HD</display-name><icon src="https://i.imgur.com/9mzJJ3y.png"/></channel>
 <channel id="CinemaOneGlobal.ph"><display-name>Cinema One Global</display-name><icon src="https://i.imgur.com/zN8mfDR.png"/></channel>
 <channel id="ZeeTV.in"><display-name>Zee TV HD</display-name><icon src="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540"/></channel>
-<channel id="KBSWorld.kr"><display-name>KBS World HD</display-name><icon src="https://i.imgur.com/7DqgELX.png"/></channel>
+<channel id="KBSWorld.kr"><display-name>KBS World HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png"/></channel>
 <channel id="ABCAustralia.au"><display-name>ABC Australia HD</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/></channel>
 <channel id="HITSNOW.sg"><display-name>HITS NOW</display-name><icon src="https://i.imgur.com/ne8gv39.png"/></channel>
 <channel id="beINSports5.qa"><display-name>beIN SPORTS 5 HD</display-name><icon src="https://i.imgur.com/2Rha5aY.png"/></channel>
@@ -64,7 +64,7 @@
 <channel id="Karisma.id"><display-name>Karisma</display-name><icon src="https://i.imgur.com/3aJagfR.png"/></channel>
 <channel id="14104a82-aecb-457a-a5c5-2d134c852ba2"><display-name>AFN</display-name></channel>
 <channel id="SkyNews.uk"><display-name>Sky News HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"/></channel>
-<channel id="DW.de"><display-name>DW English HD</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/></channel>
+<channel id="DW.de"><display-name>DW English HD</display-name><icon src="https://i.imgur.com/MNKkgfa.png"/></channel>
 <channel id="Jade.hk"><display-name>TVB Jade HD</display-name><icon src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png"/></channel>
 <channel id="AnimaxAsia.sg"><display-name>Animax HD</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/></channel>
 <channel id="85289efc-7559-49d6-86ab-b9e775dd4931"><display-name>Hub Sports 7 HD</display-name></channel>
@@ -83,7 +83,7 @@
 <channel id="HITS.sg"><display-name>Hits HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/></channel>
 <channel id="HubSports1.sg"><display-name>Hub Sports 1 HD</display-name><icon src="https://i.imgur.com/bhxPddO.png"/></channel>
 <channel id="CelestialMovies.hk"><display-name>Celestial Movies HD</display-name><icon src="https://i.imgur.com/Mb5ssnu.png"/></channel>
-<channel id="CGTN.cn"><display-name>CGTN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"/></channel>
+<channel id="CGTN.cn"><display-name>CGTN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png"/></channel>
 <channel id="c1b5b301-8e85-4ad3-a0f4-cd1a49ffbd4d"><display-name>Cricbuzz</display-name></channel>
 <channel id="StarVijay.in"><display-name>Vijay TV HD</display-name><icon src="https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540"/></channel>
 <channel id="ColorsAsiaPacific.in"><display-name>COLORS</display-name><icon src="https://i.imgur.com/mtkxdPg.png"/></channel>
@@ -130,7 +130,7 @@
 <channel id="NHKWorldPremium.jp"><display-name>NHK World Premium HD</display-name><icon src="https://i.imgur.com/4ESi2La.png"/></channel>
 <channel id="3f4bb488-1eae-4b02-8d13-04931b021e09"><display-name>TestChannel 996</display-name></channel>
 <channel id="HubPremier6.sg"><display-name>Hub Premier 6</display-name><icon src="https://i.imgur.com/9F7wNgI.png"/></channel>
-<channel id="ArirangTV.kr"><display-name>Arirang TV</display-name><icon src="https://i.imgur.com/Asu5pE9.png"/></channel>
+<channel id="ArirangTV.kr"><display-name>Arirang TV</display-name><icon src="https://i.imgur.com/kk2MdNC.png"/></channel>
 <channel id="Vannathirai.sg"><display-name>Vannathirai</display-name><icon src="https://i.imgur.com/mpGrgrU.png"/></channel>
 <channel id="HubPremier8.sg"><display-name>Hub Premier 8</display-name><icon src="https://i.imgur.com/stYijJ1.png"/></channel>
 <channel id="HubSports3.sg"><display-name>Hub Sports 3 HD</display-name><icon src="https://i.imgur.com/7H0Tbxy.png"/></channel>
@@ -140,7 +140,7 @@
 <channel id="HubPremier2.sg"><display-name>Hub Premier 2 (HD)</display-name><icon src="https://i.imgur.com/mrZwamR.png"/></channel>
 <channel id="beINSports2.qa"><display-name>beIN Sports 2 HD</display-name><icon src="https://i.imgur.com/vUJZSvs.png"/></channel>
 <channel id="KalaignarTV.in"><display-name>Kalaignar TV</display-name><icon src="https://dtil.tmsimg.com/assets/s143249_ld_h15_aa.png?lock=720x540"/></channel>
-<channel id="NHKWorldJapan.jp"><display-name>NHK WORLD - JAPAN</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png"/></channel>
+<channel id="NHKWorldJapan.jp"><display-name>NHK WORLD - JAPAN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png"/></channel>
 <channel id="PreviewChannel.sg"><display-name>Preview Channel</display-name><icon src="https://i.imgur.com/Dt2UnQ2.png"/></channel>
 <channel id="TVBXingHe.hk"><display-name>TVB Xing He</display-name><icon src="https://i.imgur.com/uf0bYFm.png"/></channel>
 <channel id="CrimePlusInvestigationAsia.sg"><display-name>Crime + Investigation HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"/></channel>
@@ -155,7 +155,7 @@
 <channel id="BBCLifestyle.uk"><display-name>BBC Lifestyle</display-name><icon src="https://i.imgur.com/9mzJJ3y.png"/></channel>
 <channel id="CinemaOneGlobal.ph"><display-name>Cinema One Global</display-name><icon src="https://i.imgur.com/zN8mfDR.png"/></channel>
 <channel id="ZeeTV.in"><display-name>Zee TV</display-name><icon src="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540"/></channel>
-<channel id="KBSWorld.kr"><display-name>KBS World HD</display-name><icon src="https://i.imgur.com/7DqgELX.png"/></channel>
+<channel id="KBSWorld.kr"><display-name>KBS World HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png"/></channel>
 <channel id="ABCAustralia.au"><display-name>ABC Australia</display-name><icon src="https://i.imgur.com/qQ33TVM.png"/></channel>
 <channel id="HITSNOW.sg"><display-name>HITSNOW</display-name><icon src="https://i.imgur.com/ne8gv39.png"/></channel>
 <channel id="beINSports5.qa"><display-name>beIN SPORTS MAX 3 HD</display-name><icon src="https://i.imgur.com/2Rha5aY.png"/></channel>
@@ -181,7 +181,7 @@
 <channel id="Karisma.id"><display-name>Karisma</display-name><icon src="https://i.imgur.com/3aJagfR.png"/></channel>
 <channel id="14104a82-aecb-457a-a5c5-2d134c852ba2"><display-name>AFN</display-name></channel>
 <channel id="SkyNews.uk"><display-name>Sky News HD</display-name><icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"/></channel>
-<channel id="DW.de"><display-name>DW (Deutsch)</display-name><icon src="https://i.imgur.com/8MRNFb9.png"/></channel>
+<channel id="DW.de"><display-name>DW (Deutsch)</display-name><icon src="https://i.imgur.com/MNKkgfa.png"/></channel>
 <channel id="Jade.hk"><display-name>TVB Jade HD</display-name><icon src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png"/></channel>
 <channel id="AnimaxAsia.sg"><display-name>Animax HD</display-name><icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png"/></channel>
 <channel id="85289efc-7559-49d6-86ab-b9e775dd4931"><display-name>Hub Sports 7</display-name></channel>
@@ -200,7 +200,7 @@
 <channel id="HITS.sg"><display-name>Hits HD</display-name><icon src="https://i.imgur.com/IM8Gy1l.png"/></channel>
 <channel id="HubSports1.sg"><display-name>Hub Sports 1 HD</display-name><icon src="https://i.imgur.com/bhxPddO.png"/></channel>
 <channel id="CelestialMovies.hk"><display-name>Celestial Movies HD</display-name><icon src="https://i.imgur.com/Mb5ssnu.png"/></channel>
-<channel id="CGTN.cn"><display-name>CGTN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"/></channel>
+<channel id="CGTN.cn"><display-name>CGTN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png"/></channel>
 <channel id="c1b5b301-8e85-4ad3-a0f4-cd1a49ffbd4d"><display-name>Cricbuzz</display-name></channel>
 <channel id="StarVijay.in"><display-name>Vijay TV</display-name><icon src="https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540"/></channel>
 <channel id="ColorsAsiaPacific.in"><display-name>COLORS</display-name><icon src="https://i.imgur.com/mtkxdPg.png"/></channel>
