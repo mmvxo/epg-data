@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-02T13:21:13.141Z",
+  "timestamp": "2026-09-02T18:42:42.031Z",
   "totals": {
     "channels": 864,
-    "programmes": 72504
+    "programmes": 73550
   },
   "by_provider": {
     "cubmu.com": {
@@ -23,7 +23,7 @@
     },
     "tivie.id": {
       "channels": 55,
-      "programmes": 618
+      "programmes": 1674
     },
     "vidio.com": {
       "channels": 65,
@@ -31,7 +31,7 @@
     },
     "visionplus.id": {
       "channels": 262,
-      "programmes": 50078
+      "programmes": 50068
     }
   }
 }

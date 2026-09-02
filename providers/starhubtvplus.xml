@@ -23,7 +23,7 @@
 <channel id="HubPremier2.sg"><display-name>Hub Premier 2 (HD)</display-name><icon src="https://i.imgur.com/mrZwamR.png"/></channel>
 <channel id="beINSports2.qa"><display-name>beIN SPORTS 2 HD</display-name><icon src="https://i.imgur.com/vUJZSvs.png"/></channel>
 <channel id="KalaignarTV.in"><display-name>Kalaignar TV</display-name><icon src="https://dtil.tmsimg.com/assets/s143249_ld_h15_aa.png?lock=720x540"/></channel>
-<channel id="NHKWorldJapan.jp"><display-name>NHK WORLD - JAPAN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png"/></channel>
+<channel id="NHKWorldJapan.jp"><display-name>NHK WORLD - JAPAN HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png"/></channel>
 <channel id="PreviewChannel.sg"><display-name>Preview Channel</display-name><icon src="https://i.imgur.com/Dt2UnQ2.png"/></channel>
 <channel id="TVBXingHe.hk"><display-name>TVB Xing He HD</display-name><icon src="https://i.imgur.com/uf0bYFm.png"/></channel>
 <channel id="CrimePlusInvestigationAsia.sg"><display-name>Crime + Investigation HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"/></channel>
@@ -140,7 +140,7 @@
 <channel id="HubPremier2.sg"><display-name>Hub Premier 2 (HD)</display-name><icon src="https://i.imgur.com/mrZwamR.png"/></channel>
 <channel id="beINSports2.qa"><display-name>beIN Sports 2 HD</display-name><icon src="https://i.imgur.com/vUJZSvs.png"/></channel>
 <channel id="KalaignarTV.in"><display-name>Kalaignar TV</display-name><icon src="https://dtil.tmsimg.com/assets/s143249_ld_h15_aa.png?lock=720x540"/></channel>
-<channel id="NHKWorldJapan.jp"><display-name>NHK WORLD - JAPAN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png"/></channel>
+<channel id="NHKWorldJapan.jp"><display-name>NHK WORLD - JAPAN</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png"/></channel>
 <channel id="PreviewChannel.sg"><display-name>Preview Channel</display-name><icon src="https://i.imgur.com/Dt2UnQ2.png"/></channel>
 <channel id="TVBXingHe.hk"><display-name>TVB Xing He</display-name><icon src="https://i.imgur.com/uf0bYFm.png"/></channel>
 <channel id="CrimePlusInvestigationAsia.sg"><display-name>Crime + Investigation HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"/></channel>
