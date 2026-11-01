@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20261005">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20261101">
 <channel id="185"><display-name>Movies News</display-name></channel>
 <channel id="203"><display-name>Golf Plus ID</display-name></channel>
 <channel id="205"><display-name>Knowledge+</display-name></channel>
@@ -59,7 +59,7 @@
 <channel id="OneTV.in"><display-name>One TV</display-name><icon src="https://i.imgur.com/6Jh8LRI.png"/></channel>
 <channel id="PijarTV.id"><display-name>Pijar TV</display-name><icon src="https://i.imgur.com/6rYTI41.png"/></channel>
 <channel id="PSJTV.id"><display-name>PSJ TV</display-name><icon src="https://i.postimg.cc/1XSf22bM/PSJTV-LOGO.png"/></channel>
-<channel id="RajawaliTV.id"><display-name>Rtv</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/></channel>
+<channel id="RajawaliTV.id"><display-name>Rtv</display-name></channel>
 <channel id="RCTI.id"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/></channel>
 <channel id="RT.ru"><display-name>Russia Today</display-name><icon src="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540"/></channel>
 <channel id="SCTV.id"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/></channel>
