@@ -1,6 +1,6 @@
 {
   "status": "healthy",
-  "timestamp": "2026-11-05T06:05:32.875Z",
+  "timestamp": "2026-11-05T15:00:08.880Z",
   "summary": {
     "total": 7,
     "success": 7,
@@ -10,7 +10,7 @@
   "providers": {
     "cubmu.com": {
       "status": "success",
-      "duration_ms": 12574,
+      "duration_ms": 11703,
       "channels": 76,
       "programmes": 0,
       "size_bytes": 9713,
@@ -18,50 +18,50 @@
     },
     "dens.tv": {
       "status": "success",
-      "duration_ms": 23148,
+      "duration_ms": 23954,
       "channels": 43,
-      "programmes": 5896,
-      "size_bytes": 935936,
+      "programmes": 6235,
+      "size_bytes": 983203,
       "error": null
     },
     "maxstream.tv": {
       "status": "success",
-      "duration_ms": 109215,
+      "duration_ms": 99557,
       "channels": 129,
-      "programmes": 3109,
-      "size_bytes": 1085023,
+      "programmes": 3537,
+      "size_bytes": 1232965,
       "error": null
     },
     "starhubtvplus.com": {
       "status": "success",
-      "duration_ms": 93603,
+      "duration_ms": 60993,
       "channels": 220,
-      "programmes": 45360,
-      "size_bytes": 30573518,
+      "programmes": 45099,
+      "size_bytes": 30336972,
       "error": null
     },
     "tivie.id": {
       "status": "success",
-      "duration_ms": 141177,
+      "duration_ms": 275825,
       "channels": 55,
-      "programmes": 2939,
-      "size_bytes": 1248521,
+      "programmes": 2916,
+      "size_bytes": 1202934,
       "error": null
     },
     "vidio.com": {
       "status": "success",
-      "duration_ms": 46905,
+      "duration_ms": 48095,
       "channels": 65,
-      "programmes": 8839,
-      "size_bytes": 4149082,
+      "programmes": 9103,
+      "size_bytes": 4292969,
       "error": null
     },
     "visionplus.id": {
       "status": "success",
-      "duration_ms": 62650,
+      "duration_ms": 64979,
       "channels": 262,
-      "programmes": 43460,
-      "size_bytes": 17492269,
+      "programmes": 43290,
+      "size_bytes": 17461971,
       "error": null
     }
   }
