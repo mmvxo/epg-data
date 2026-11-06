@@ -1,6 +1,6 @@
 {
   "status": "healthy",
-  "timestamp": "2026-11-05T23:40:34.288Z",
+  "timestamp": "2026-11-06T06:01:59.815Z",
   "summary": {
     "total": 7,
     "success": 7,
@@ -10,7 +10,7 @@
   "providers": {
     "cubmu.com": {
       "status": "success",
-      "duration_ms": 8159,
+      "duration_ms": 14562,
       "channels": 76,
       "programmes": 0,
       "size_bytes": 9713,
@@ -18,50 +18,50 @@
     },
     "dens.tv": {
       "status": "success",
-      "duration_ms": 35256,
+      "duration_ms": 26877,
       "channels": 43,
-      "programmes": 7783,
-      "size_bytes": 1212824,
+      "programmes": 7316,
+      "size_bytes": 1141593,
       "error": null
     },
     "maxstream.tv": {
       "status": "success",
-      "duration_ms": 110573,
+      "duration_ms": 93024,
       "channels": 129,
-      "programmes": 3017,
-      "size_bytes": 1053104,
+      "programmes": 3248,
+      "size_bytes": 1143041,
       "error": null
     },
     "starhubtvplus.com": {
       "status": "success",
-      "duration_ms": 57231,
+      "duration_ms": 64064,
       "channels": 220,
-      "programmes": 44898,
-      "size_bytes": 30330983,
+      "programmes": 45383,
+      "size_bytes": 30567250,
       "error": null
     },
     "tivie.id": {
       "status": "success",
-      "duration_ms": 349483,
+      "duration_ms": 160882,
       "channels": 55,
-      "programmes": 4608,
-      "size_bytes": 1893706,
+      "programmes": 3449,
+      "size_bytes": 1415953,
       "error": null
     },
     "vidio.com": {
       "status": "success",
-      "duration_ms": 45794,
+      "duration_ms": 57335,
       "channels": 65,
-      "programmes": 9105,
-      "size_bytes": 4292147,
+      "programmes": 8742,
+      "size_bytes": 4105008,
       "error": null
     },
     "visionplus.id": {
       "status": "success",
-      "duration_ms": 52564,
+      "duration_ms": 73606,
       "channels": 262,
-      "programmes": 43264,
-      "size_bytes": 17449031,
+      "programmes": 43320,
+      "size_bytes": 17500443,
       "error": null
     }
   }
