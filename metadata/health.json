@@ -1,6 +1,6 @@
 {
   "status": "healthy",
-  "timestamp": "2026-11-08T22:05:09.046Z",
+  "timestamp": "2026-11-09T05:41:39.512Z",
   "summary": {
     "total": 7,
     "success": 7,
@@ -10,7 +10,7 @@
   "providers": {
     "cubmu.com": {
       "status": "success",
-      "duration_ms": 8094,
+      "duration_ms": 12312,
       "channels": 76,
       "programmes": 0,
       "size_bytes": 9713,
@@ -18,50 +18,50 @@
     },
     "dens.tv": {
       "status": "success",
-      "duration_ms": 26706,
+      "duration_ms": 15816,
       "channels": 43,
-      "programmes": 6662,
-      "size_bytes": 1046882,
+      "programmes": 0,
+      "size_bytes": 6394,
       "error": null
     },
     "maxstream.tv": {
       "status": "success",
-      "duration_ms": 110505,
+      "duration_ms": 88806,
       "channels": 129,
-      "programmes": 2824,
-      "size_bytes": 983225,
+      "programmes": 3138,
+      "size_bytes": 1090963,
       "error": null
     },
     "starhubtvplus.com": {
       "status": "success",
-      "duration_ms": 80095,
+      "duration_ms": 55352,
       "channels": 220,
-      "programmes": 45772,
-      "size_bytes": 30911597,
+      "programmes": 45574,
+      "size_bytes": 30932570,
       "error": null
     },
     "tivie.id": {
       "status": "success",
-      "duration_ms": 387949,
+      "duration_ms": 137082,
       "channels": 55,
-      "programmes": 3417,
-      "size_bytes": 1378470,
+      "programmes": 2847,
+      "size_bytes": 1144619,
       "error": null
     },
     "vidio.com": {
       "status": "success",
-      "duration_ms": 59166,
+      "duration_ms": 49616,
       "channels": 65,
-      "programmes": 10956,
-      "size_bytes": 5102367,
+      "programmes": 10834,
+      "size_bytes": 5069254,
       "error": null
     },
     "visionplus.id": {
       "status": "success",
-      "duration_ms": 68910,
+      "duration_ms": 69925,
       "channels": 262,
-      "programmes": 42770,
-      "size_bytes": 17223369,
+      "programmes": 42842,
+      "size_bytes": 17184897,
       "error": null
     }
   }
